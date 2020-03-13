@@ -9,8 +9,9 @@ body {
     background-color: #d9dcd6;
     color: #ffffff;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 16px;
 }
-
+/* header and nav properties */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -20,7 +21,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* grey tone for the SEO */
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -45,17 +46,12 @@ header nav ul li {
 header h1, .header h1 .seo, footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
 /*  <a> element needed its own text color as it would not inhearit it from body. */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
-p {
-    font-size: 16px;
-}
-
+/* image for the hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -64,7 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* float left and right for articles */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -86,7 +82,7 @@ p {
     background-color: #2589bd;
 }
 /* margin for seperating key points in the benefits section */
-.benefits div {
+.benefits aside {
     margin-bottom: 32px;
 }
 /* centering the text on all sections of benefits and adding universal margin to titles */
