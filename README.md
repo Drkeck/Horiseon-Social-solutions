@@ -1,8 +1,9 @@
 # [Horiseon Marketing Agency](https://drkeck.github.io/Horiseon-Social-solutions/)
-Horiseon's front end to show you their advertised statagies and the benefits that come with choosing them, do they fit your needs?
+Horiseon's front end to show you their advertised statagies and the benefits that come with choosing them, do they fit your needs? click their name to find out.
 
 ### Code refraction
 I was giving the opportunity to work with the to refract their code making sure their was not redundant code to improve their sites performance, while also changing html elements so it could easily conform to the standards needed to cater to those with disabilities.
+
 
 
 ## changes
