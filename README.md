@@ -28,7 +28,7 @@ made a `footer` to replace a `div`
 ### css
 
 moved other styles to the body section as they were already attempted to be applied to all text and the few acceptions were already overwriting this. examples include
->`background-color`
+`background-color`
 `font-family` 
 `font-size` 
 `color`
