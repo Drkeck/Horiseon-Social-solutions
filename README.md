@@ -7,7 +7,7 @@ I was giving the opportunity to work with the to refract their code making sure 
 
 
 ## Changes
-I've consolidated most of the CSS down to fewer lines, as there were many repeated variables that could have been grouped together.
+I've consolidated most of the CSS down to fewer lines, as there were many repeated variables that could have been grouped together. almost all the changes are featured below, so don't hesitate to check them out.
 
 ## html
 
