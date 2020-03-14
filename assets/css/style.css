@@ -43,7 +43,7 @@ header nav ul li {
 
 }
 /* font for main header and footer */
-header h1, .header h1 .seo, footer {
+header h1, header h1 .seo, footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 /*  <a> element needed its own text color as it would not inhearit it from body. */
