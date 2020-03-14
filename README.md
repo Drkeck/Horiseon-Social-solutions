@@ -11,47 +11,47 @@ I've consolidated most of the CSS down to fewer lines, as there were many repeat
 
 ## html
 
-### title
+### Title
 change the `title` to `Horiseon, Marketing Solutions`
 
-### header
+### Header
 made a `header` element to replace `div class="header"`
 
-### navigation
+### Navigation
 made a `nav` element to house the navigation option in the header
 
-### divs -> sections
+### Divs -> Sections
 changed `div`s into `sections`
 
-### articles
+### Articles
 added `articles` for `search engine optimization`,`online reputation management`and`social medai marketing`
 
-### benfits now aside
+### Benfits now Aside
 made the `benifits` section an `aside` instead of a `div` for better readability.
 
-### footer 
+### Footer 
 made a `footer` to replace a `div`
 
-## css
+## CSS
 
-### body
+### Body
 moved other styles to the `body` section as they were already attempted to be applied to all text and the few acceptions were already overwriting this. examples include
 `background-color`
 `font-family` 
 `font-size` 
 `color`
 
-### header
+### Header
 added `header h1, header h1 .seo, footer` since they all share a font family
 
 ### a
 the `a` entry houses the only repeated color entry because it won't inhearit it from `body` or any other parent elements
 
-### .benefits
+### .Benefits
 consolidated the `.benifits` elements down into `.benefits aside`,`.benefits h3`, and `.benefits img` since there were many repeats in the css code.
 
-### .content
+### .Content
 same with the `.content` section as well as above making them into `.content article`,`.content img`, and `.content h2`. also added a `.content article, .content h2` for margin-bottom
 
-### footer
+### Footer
 added black text to `footer` so it was more legible.
