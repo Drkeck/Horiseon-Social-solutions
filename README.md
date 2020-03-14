@@ -11,18 +11,25 @@ I've consolidated most of the CSS down to fewer lines, as there were many repeat
 
 ## html
 
+### title
 change the `title` to `Horiseon, Marketing Solutions`
 
+### header
 made a `header` element to replace `div class="header"`
 
+### navigation
 made a `nav` element to house the navigation option in the header
 
+### divs -> sections
 changed `div`s into `sections`
 
+### articles
 added `articles` for `search engine optimization`,`online reputation management`and`social medai marketing`
 
+### benfits now aside
 made the `benifits` section an `aside` instead of a `div` for better readability.
 
+### footer 
 made a `footer` to replace a `div`
 
 ## css
