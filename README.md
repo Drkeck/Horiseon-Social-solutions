@@ -2,10 +2,11 @@
 Horiseon's front end to show you their advertised statagies and the benefits that come with choosing them, do they fit your needs?
 
 ### Code refraction
-I was giving the opertunity to work with the to refract their code and make sure their was not redundent code to improve their sites performance while also changing html elements so it could easily confrm to the standards needed to cater to those with disabilities
+I was giving the opportunity to work with the to refract their code making sure their was not redundant code to improve their sites performance, while also changing html elements so it could easily conform to the standards needed to cater to those with disabilities.
+
 
 ## changes
-i've consolidated moste of the css down to fewer lines as there were many repeated variables that could have been grouped together.
+I've consolidated most of the CSS down to fewer lines, as there were many repeated variables that could have been grouped together.
 
 ### html
 
